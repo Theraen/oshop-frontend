@@ -1,0 +1,3 @@
+<?php
+dump($viewVars['test']);
+?>
